@@ -1,5 +1,7 @@
 # bamazon
 
+Enter node bamazonCustomer.js into the command line
+
 When running the bamazonCustomer.js application will first display all of the items available for sale. Included are the ids, names, and prices of products for sale.
 
 ## The app will then prompt users with two messages:
